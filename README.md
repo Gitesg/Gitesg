@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm gitesh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://www.thisiscolossal.com/wp-content/uploads/2014/06/2.gif" alt="gitesh" /> </p>
+<p align="center"> <img src="https://www.thisiscolossal.com/wp-content/uploads/2014/06/2.gif" alt="gitesh" /> </p>
 
 - 🌱 I’m currently learning **kotlin*
 
