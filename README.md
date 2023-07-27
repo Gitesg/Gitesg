@@ -1,5 +1,5 @@
 #about:
-<h1> hello ,world!  i M gitesh 
+<h1> hello ,world!   this is  GItesH
   
   
 ## 🌐 Socials:
