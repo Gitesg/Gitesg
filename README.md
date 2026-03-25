@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **giteshmane013@gmail.com**
 
-- ⚡ Fun fact **this user is very tired bt still exploring with cofee**
+- ⚡ Fun fact **.............**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
