@@ -55,10 +55,12 @@
       alt="grpc" width="60" height="60"/>
   </a>
 
+<span style="background-color:#231F20; padding:8px; border-radius:10px; display:inline-block;">
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"
       alt="kafka" width="60" height="60"/>
   </a>
+</span>
 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
