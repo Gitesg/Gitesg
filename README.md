@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gitesh Mane</h1>
+<h1 align="center">Hi 🖖, I'm Gitesh Mane</h1>
 
 <h3 align="center">Software Engineer | Distributed Systems | Backend & Infrastructure</h3>
 
