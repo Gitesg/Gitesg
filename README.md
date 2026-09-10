@@ -14,11 +14,11 @@
   </a>
 </p>
 
-- 🔭 Exploring **distributed systems, high-performance backend systems, and intelligent AI agents**
-- ⚙️ Currently building systems with **Go, gRPC, Kubernetes, Kafka, PostgreSQL**
-- 🧠 Interested in **concurrency, scalability, reliability, and performance**
-- 📫 Reach me at **giteshmane013@gmail.com**
-- ⚡ Fun fact: **I enjoy understanding what happens underneath the abstractions.**
+-  Exploring **distributed systems, high-performance backend systems, and intelligent AI agents**
+-  Currently building systems with **Go, gRPC, Kubernetes, Kafka, PostgreSQL**
+-  Interested in **concurrency, scalability, reliability, and performance**
+-  Reach me at **giteshmane013@gmail.com**
+-  Fun fact: **I enjoy understanding what happens underneath the abstractions.**
 
 <h3 align="left">Connect with me:</h3>
 
